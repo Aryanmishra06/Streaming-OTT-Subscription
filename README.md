@@ -1,5 +1,5 @@
-# Streaming-OTT-Subscription
-Streaming OTT Subscription
+# OTT Streaming Service
+Customer Churn Analysis – OTT Streaming Service
 📌 Project Overview
 
 This project focuses on customer churn analysis for a leading subscription-based OTT streaming service. The platform is known for its wide range of movies, TV shows, and exclusive original content.
